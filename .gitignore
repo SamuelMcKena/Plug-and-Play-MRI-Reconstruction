@@ -1,0 +1,10 @@
+__pycache__/
+*.h5
+*.ckpt
+*.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.venv/
+.vscode/
+*.npy
+*.npz
